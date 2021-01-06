@@ -50,6 +50,6 @@ If you want to run a merge directly via the console, follow the below commands.
 $ git checkout master
 ```
 ```
-$ git merge hotfix
+$ git merge dev
 ```
 
