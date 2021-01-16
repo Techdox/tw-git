@@ -1,6 +1,8 @@
 # Team Workshop: GIT
 This workshop is setup to help understand the basics of GIT and how to get up and running using it.
 
+## Forking a Repo
+Forking a repo is done by clicking the Fork button in GitHub in the top right of someones repo.
 ## Cloning a Repo
 Cloning a Repo can be completed a couple of ways, such as HTTPS or SSH. 
 
